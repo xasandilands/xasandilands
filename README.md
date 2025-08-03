@@ -1,7 +1,8 @@
 ## Hello! Welcome to my GitHub
 
 ## Current works
-Currently, I am working on a CPU emulator in C++
+Currently, I am working on a CPU emulator in C++. You can look at my work done so far here:
+https://github.com/xasandilands/CPU-emulator
 
 ## Previous work
 I worked on a unity game with a 3 other collaborators for my grade 12 computer science class.
