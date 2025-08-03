@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub
 
 ## Who am I?
-I'm Xavier Sandilands, a 2nd year computer science major at SFU. I have an intrest in learning more about the backend side of computer science. I have exensive knowledge and experince in the following languages/software from personal personal project or previous school courses:
+I'm Xavier Sandilands, a 2nd year computer science major at SFU. I have an intrest in learning more about the backend side of computer science. I have exensive knowledge and experince in the following languages/software from personal projects or previous school courses:
 - Java
 - C
 - C++
