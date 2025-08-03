@@ -1,5 +1,21 @@
 ## Hello! Welcome to my GitHub
 
+##Who am I?
+I'm Xavier Sandilands, a 2nd year computer science major at SFU. I have an intrest in learning more about the backend side of computer science. I have exensive knowledge and experince in the following languages/software from personal personal project or previous school courses:
+- Java
+- C
+- C++
+- C#
+- Python
+- Unity
+- HTML
+
+Some languages/software I have less confidence in or are just starting to learn are:
+-CSS
+-SQL
+-Unreal engine
+
+
 ## Current works
 Currently, I am working on a CPU emulator in C++. You can look at my work done so far here:
 https://github.com/xasandilands/CPU-emulator
