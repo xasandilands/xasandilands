@@ -4,7 +4,7 @@
 Currently, I am working on a CPU emulator in C++
 
 ## Previous work
-I worked on a unity game with a 3 other colaborators for my grade 12 computer science class.
+I worked on a unity game with a 3 other collaborators for my grade 12 computer science class.
 You can take a look at my contributions here:
 https://github.com/janetvenditti/40sCSProject
 <!--
