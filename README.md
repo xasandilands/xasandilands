@@ -17,11 +17,11 @@ Some languages/software I have less confidence in or are just starting to learn 
 - Unreal engine
 
 
-## Current works
+## Current projects
 Currently, I am working on a CPU emulator in C++. You can look at my work done so far here:
 https://github.com/xasandilands/CPU-emulator
 
-## Previous work
+## Previous projects
 I worked on a unity game with a 3 other collaborators for my grade 12 computer science class.
 You can take a look at my contributions here:
 https://github.com/janetvenditti/40sCSProject
