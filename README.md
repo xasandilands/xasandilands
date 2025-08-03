@@ -1,5 +1,12 @@
-## Hello! Welcome to my github
+## Hello! Welcome to my GitHub
 
+## Current works
+Currently, I am working on a CPU emulator in C++
+
+## Previous work
+I worked on a unity game with a 3 other colaborators for my grade 12 computer science class.
+You can take a look at my contributions here:
+https://github.com/janetvenditti/40sCSProject
 <!--
 **xasandilands/xasandilands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
