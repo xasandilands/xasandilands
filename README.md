@@ -11,9 +11,10 @@ I'm Xavier Sandilands, a 2nd year computer science major at SFU. I have an intre
 - HTML
 
 Some languages/software I have less confidence in or are just starting to learn are:
--CSS
--SQL
--Unreal engine
+- CSS
+- SQL
+- PostgreSQL
+- Unreal engine
 
 
 ## Current works
