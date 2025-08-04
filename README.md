@@ -18,8 +18,7 @@ Some languages/software I have less confidence in or are just starting to learn 
 
 
 ## Current projects
-Currently, I am working on a redis in C++, you can take at look at my current progress here:
-https://github.com/xasandilands/RedisC
+Currently, I am working on a turned based game demo in unity, right now I am learning how to implement the basic of a turn based system. I plan to add my own mechanics such as parries and stances once I understand the basics. You can take a look here:
 
 ## Previous projects
 I worked on a unity game with a 3 other collaborators for my grade 12 computer science class.
