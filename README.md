@@ -18,7 +18,7 @@ Some languages/software I have less confidence in or are just starting to learn 
 
 
 ## Current projects
-Currently, I am working on a CPU emulator in C++. You can look at my work done so far here:
+Currently, I am working on a redis in C++, you can take at look at my current progress here:
 https://github.com/xasandilands/CPU-emulator
 
 ## Previous projects
