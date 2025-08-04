@@ -19,7 +19,7 @@ Some languages/software I have less confidence in or are just starting to learn 
 
 ## Current projects
 Currently, I am working on a redis in C++, you can take at look at my current progress here:
-https://github.com/xasandilands/CPU-emulator
+https://github.com/xasandilands/RedisC
 
 ## Previous projects
 I worked on a unity game with a 3 other collaborators for my grade 12 computer science class.
