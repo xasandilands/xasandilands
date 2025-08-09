@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a basic turn based combat system in unity which I plan to expand on with more complex mechanics](https://github.com/xasandilands/TurnBasedTest)
 
-- 🌱 I’m currently learning **RayTracing, SQL and JS**
+- 🌱 I’m currently learning **SQL and JS**
 
 - 📫 How to reach me **njsandilands@gmail.com**
 
